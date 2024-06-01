@@ -1,4 +1,4 @@
-# Registration Form
+# Advanced Registration Form
 
 This project contains a simple registration form where users can enter their profile information step by step.
 
