@@ -19,8 +19,8 @@ This project contains a simple registration form where users can enter their pro
 
 ## Screenshots
 
-![Screenshot of Registration Form](screenshot.png)
-
+![Screenshot of Registration Form](1.png)
+![Screenshot of Registration Form](2.png)
 ## Installation
 
 1. Clone the project:
