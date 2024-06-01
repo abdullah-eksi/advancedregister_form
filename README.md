@@ -26,7 +26,7 @@ This project contains a simple registration form where users can enter their pro
 1. Clone the project:
 
     ```bash
-    git clone https://github.com/user/registration-form.git
+    git clone https://github.com/user/registration-form.git](https://github.com/abdullah-eksi/advancedregister_form.git
     ```
 
 2. Open the `index.html` file in your web browser.
